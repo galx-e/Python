@@ -1,0 +1,3 @@
+station number:731
+alarm1:1
+alarm2:0

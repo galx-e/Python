@@ -1,0 +1,3 @@
+station number:123
+alarm1:1
+alarm2:1
